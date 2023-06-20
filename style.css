@@ -1,0 +1,614 @@
+.top-w
+{
+    width: 100%
+}
+.top-maxh 
+{
+    max-height: 600px
+}
+.top-bg 
+{
+    background: no-repeat url(https://phonoteka.org/uploads/posts/2022-02/1645059446_7-phonoteka-org-p-pank-rok-fon-7.jpg)
+}
+.top-ai 
+{
+    align-items: stretch;
+}
+.top-mrg 
+{
+    margin: 0 auto
+}
+.top-pos 
+{
+    position: absolute
+}
+.top-bg-pos 
+{
+    background-position: 50% 50%
+}
+.top-ofl 
+{
+    overflow: visible
+}
+.top-bg-sz 
+{
+    background-size: cover
+}
+
+.heading-txtalgn
+{
+    text-align: center
+}
+.heading-bxszng
+{
+    box-sizing: border-box
+}
+.heading-clr
+{
+    color: #ee0b1e
+}
+.heading-wdth
+{
+    width: 950px
+}
+.heading-fntfml
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.heading-wrdwrp
+{
+    word-wrap: break-word
+}
+.heading-fntwght
+{
+    font-weight: 700
+}
+.heading-lttrspcng
+{
+    letter-spacing: normal
+}
+.heading-fntsz
+{
+    font-size: 80px;
+}
+.heading-pos
+{
+    position: relative
+}
+.heading-mrgn
+{
+    margin: 160px auto 0
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.button-bxsz
+{
+box-sizing: border-box
+}
+.button-dsp
+{
+display: table
+}
+.button-crsr
+{
+cursor: pointer
+}
+.button-ff
+{
+font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif
+}
+.button-lnh
+{
+line-height: inherit
+}
+.button-txtdec
+{
+text-decoration: none
+}
+.button-brdr
+{
+border: 0 none transparent
+}
+.button-outlwdth
+{
+outline-width: 0
+}
+.button-fstl
+{
+font-style: initial
+}
+.button-whtspc
+{
+white-space: nowrap
+}
+.button-vertalgn
+{
+vertical-align: middle
+}
+.button-txtalgn
+{
+text-align: center
+}
+.button-pad
+{
+padding: 10px 30px
+}
+.button-algnslf
+{
+align-self: flex-start
+}
+.button-brdrwdth
+{
+border-width: 0 !important
+}
+.button-pos
+{
+position: relative;
+}
+.button-flxshr
+{
+flex-shrink: 0
+}
+.button-brdrrad
+{
+border-radius: 50px !important
+}
+.button-strk
+{
+stroke: none
+}
+.button-brdrclr
+{
+border-color: transparent !important
+}
+.button-fsz
+{
+font-size: 0.875rem
+}
+.button-bgimg
+{
+background-image: none
+}
+.button-brdrstl
+{
+border-style: none
+}
+.button-lttrspc
+{
+letter-spacing: 1px
+}
+.button-txttrnsf
+{
+text-transform: uppercase
+}
+.button-fwei
+{
+font-weight: 500
+}
+.button-mrgn
+{
+margin: 40px auto 0
+}
+.button-clr
+{
+color: #ffffff !important
+}
+.button-bgclr
+{
+background-color: #5a172f !important
+}
+.button-fstrch
+{
+font-stretch: ultra-expanded
+}
+
+.flx-cont-2by2-disp
+{
+    display: flex
+}
+.flx-cont-2by2-wdth
+{
+    width: 80%
+}
+.flx-cont-2by2-minw
+{
+    min-width: 100px
+}
+.flx-cont-2by2-hght
+{
+    height: auto
+}
+.flx-cont-2by2-jc
+{
+    justify-content: center
+}
+.flx-cont-2by2-ac
+{
+    align-content: stretch
+}
+.flx-cont-2by2-fldir
+{
+    flex-direction: row
+}
+.flx-cont-2by2-flwr
+{
+    flex-wrap: wrap
+}
+.flx-cont-2by2-bgcol
+{
+    background-color: black
+}
+.flx-cont-2by2-pos
+{
+    position: relative
+}
+.flx-cont-2by2-mgnlft
+{
+    margin-left: auto
+}
+.flx-cont-2by2-mgnrght
+{
+    margin-right: auto
+}
+
+.flex-container-elem1,
+.flex-container-elem2,
+.flex-container-elem3,
+.flex-container-elem4, 
+.flex-container-elem5 {
+  
+  text-align: center;
+  margin: 15px;
+  font-size: 30px;
+  gap: 10px;
+}
+
+.flex-container-elem1-wdth
+{
+  width: 600px
+}
+.flex-container-elem1-hght
+{
+  height: 480px
+}
+.flex-container-elem1-bg
+{
+  background: no-repeat url(https://www.theinertia.com/wp-content/uploads/2018/04/punk-rock-bowling.jpg)
+}
+.flex-container-elem1-bgsz
+{
+  background-size: cover
+}
+.flex-container-elem1-bgpos
+{
+  background-position: 50% 50%
+}
+
+.flex-container-elem2-wdth
+{
+    width: 512px
+}
+.flex-container-elem2-hght
+{
+    height: 480px
+}
+.flex-container-elem2-bg
+{
+    background: rgb(253, 251, 251)
+}
+.flex-container-elem2-fntsz
+{
+    font-size: 1.6em
+}
+.flex-container-elem2-txtalgn
+{
+    text-align: left
+}
+.flex-container-elem2-txtrndrng
+{
+    text-rendering: geometricPrecision
+}
+.flex-container-elem2-clr
+{
+    color: rgb(58, 58, 58)
+}
+.flex-container-elem2-fntstrtch
+{
+    font-stretch: expanded
+}
+
+.flex-container-elem3-brdr 
+{
+    border: 3px solid #861018
+}
+.flex-container-elem3-wdth
+{ 
+    width: 390px
+}
+.flex-container-elem3-hght
+{
+    height: 380px
+}
+.flex-container-elem3-fntsz
+{
+    font-size: 1.4em
+}
+.flex-container-elem3-txtalgn
+{
+    text-align: left
+}
+.flex-container-elem3-txtrndrng
+{
+    text-rendering: geometricPrecision
+}
+.flex-container-elem3-clr
+{
+    color: rgb(58, 58, 58)
+}
+.flex-container-elem3-fntstrtch
+{
+    font-stretch: expanded
+}
+
+.flex-container-elem4-wdth
+{
+    width: 740px
+}
+.flex-container-elem4-hght
+{
+    height: 390px
+}
+.flex-container-elem4-bg
+{
+    background: no-repeat url(https://sun6-23.userapi.com/s/v1/if1/Xs1-5bHVaxFtXjbWTP9A1T1mkpyRHjcCUiI_TtLxpjXiMzm7QPnL96STlZyFxZ9J6n9_bIbd.jpg?size=1045x1045&quality=96&crop=26,0,1045,1045&ava=1)
+}
+.flex-container-elem4-bgsz
+{
+    background-size: cover
+}
+.flex-container-elem4-bgpos
+{
+    background-position: 50% 50%
+}
+
+.flex-container-elem5-wdth
+{
+    width: 520px
+}
+.flex-container-elem5-hght
+{
+    height: 480px
+}
+.flex-container-elem5-bg
+{
+    background: rgb(239, 239, 239)
+}
+.flex-container-elem5-fntsz
+{
+    font-size: 1.4em
+}
+.flex-container-elem5-txtalgn
+{
+    text-align: center
+}
+.flex-container-elem5-txtrndrng
+{
+    text-rendering: geometricPrecision
+}
+.flex-container-elem5-clr
+{
+    color: rgb(58, 58, 58)
+}
+.flex-container-elem5-fntstrtch
+{
+    font-stretch: expanded
+}
+
+.flex-container-elem6-bg
+{
+    width: 740px
+}
+.flex-container-elem6-hght
+{
+    height: 390px
+}
+.flex-container-elem6-bg
+{
+    background: no-repeat url(https://krot.info/uploads/posts/2023-04/1680525496_krot-info-p-pank-rok-oboi-na-telefon-instagram-12.jpg)
+}
+.flex-container-elem6-bgsz
+{
+    background-size: cover
+}
+.flex-container-elem6-pos
+{
+    background-position: 50% 50%;
+}
+
+.div-margin-45{
+    margin: 45px
+}
+
+.div-margin-65{
+    margin: 65px
+}
+.div-container-fntfml
+{
+    font-family: Roboto,sans-serif;
+    
+}
+
+.txt-c-clr
+{
+    color: rgb(226, 19, 19)
+}
+.txt-c-fsz
+{
+    font-size: 2em
+}
+.txt-c-fw
+{
+    font-weight: 300 px
+}
+.txt-c-mrgn
+{
+    margin: auto 0
+}
+.txt-c-ls
+{
+    letter-spacing: 0px
+}
+.txt-c-fs
+{
+    font-stretch: expanded
+}
+.txt-c-ff
+{
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif
+}
+.txt-c-ta
+{
+    text-align: center
+}
+
+
+
+
+.sample-txt-txta
+{
+    text-align: center
+}
+.sample-txt-fsz
+{
+    font-size: 1.2em
+}
+.sample-txt-fw
+{
+    font-weight: 400
+}
+.sample-txt-ls
+{
+    letter-spacing: auto
+}
+.sample-txt-fstretch
+{
+    font-stretch: ultra-expanded
+}
+.sample-txt-ff
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sample-txt-fstl
+{
+    font-style: italic
+}
+.sample-txt-padlft
+{
+    padding-left: 5px
+}
+.sample-txt-padrght
+{
+    padding-right: 5px
+}
+
+.table-txt-lnhght
+{
+    line-height: 1.6
+}
+.table-txt-clr
+{
+    color: #490c0c
+}
+.table-txt-pos
+{
+    position: static
+}
+.table-txt-dsp
+{
+    display: flex
+}
+.table-txt-flxdir
+{
+    flex-direction: row;
+}
+.table-txt-wdth
+{
+    width: auto;
+}
+.table-txt-mrgn
+{
+    margin: 200px 100px 0 
+}
+
+.h5-fntsz
+{
+    font-size: 1em
+}
+.h5-fntwght
+{
+    font-weight: 100
+}
+.h5-fntmrgn
+{
+    margin: 2em 0
+}
+.h5-lttrspcng
+{
+    letter-spacing: 1px
+}
+.h5-fntfml
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h5-txtalgn
+{
+    text-align: center
+}
+.h5-clr
+{
+    color: rgb(240, 12, 16)
+}
+
+
+.sec01-minhght
+{
+    min-height: 920px;
+}
+.sec01-hght
+{
+    height: auto;
+}
+.sec01-mrgnlft
+{
+    margin-left: -9px;
+}
+
+.sec02-mrgntp
+{
+    margin-top: 80px;
+}
+.sec02-wdth
+{
+    width: 100%;
+}
+.sec02-minhght
+{
+    min-height: 920px;
+}
+.sec02-hght
+{
+    height: auto;
+}
+.sec02-mrgnlft
+{
+    margin-left: -9px;
+}
+.sec02-bgclr
+{
+    background-color: rgba(248, 248, 248, 0.219);
+}
